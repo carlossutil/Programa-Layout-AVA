@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Programa realizado com o objetivo de concluir a atividade 2 do modulo 11 - Desenvolvimento Web do talento Tech.
 
 ## Getting Started
 
